@@ -1,6 +1,7 @@
 bower_components/
 node_modules/
 npm-debug.log
+package-lock.json
 resume.html
 resume.pdf
 resume.json
